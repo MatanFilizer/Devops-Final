@@ -12,7 +12,7 @@
   <%
     } else {
   %>
-      <h2>Wellllllll, life goes on ... </h2><p>the number is:<%= num %></p>
+      <h2>Welllllllll, life walla goes on ... </h2><p>the number is:<%= num %></p>
   <%
     }
   %>
